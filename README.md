@@ -3,6 +3,8 @@
 
 This project focuses on analyzing player performance before and after Level 100, clustering users into talent-based segments, and validating the stability of these segments after Level 100. It combines data analysis, clustering algorithms, and statistical verification to provide actionable insights into player behavior.
 
+**You can access data with this link: https://drive.google.com/drive/folders/15-GZ_u7f4SmudzcsTSlGvEFCz68QwtEq?usp=sharing**
+
 ## Table of Contents
 
 - [Project Description](#project-description)
